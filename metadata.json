@@ -1,0 +1,6 @@
+{
+  "name": "Kids Job Adventure - 小学英语职业单词乐园",
+  "description": "专为小学英语课堂设计的职业主题互动游戏教学平台，涵盖Teacher、Student、Pirate、Dentist、Film star、Pop star、Nurse、Doctor、Farmer等9大核心单词，支持欢快背景音乐、自然发音、翻牌匹配、听音猜谜、拼写火车与双人抢答PK。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
